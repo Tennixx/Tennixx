@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tennixx
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python(discord.py)
-- 📫 How to reach me: Discord -> TennixxDev#4090
+- 📫 How to reach me: Discord -> Tennixx#4090
